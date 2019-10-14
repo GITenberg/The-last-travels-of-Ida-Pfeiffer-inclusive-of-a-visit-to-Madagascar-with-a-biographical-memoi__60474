@@ -1,0 +1,35 @@
+_repo: The-last-travels-of-Ida-Pfeiffer-inclusive-of-a-visit-to-Madagascar-with-a-biographical-memoi__60474
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Dulcken, H. W. (Henry William)
+    aliases:
+    - Dulcken, Henry W. (Henry William)
+    - Dulcken, Henry William
+    birthdate: 1832
+    deathdate: 1894
+    gutenberg_agent_id: '4538'
+    url: http://www.gutenberg.org/2009/agents/4538
+creator:
+  author:
+    agent_name: Pfeiffer, Ida
+    alias: Pfeiffer, Ida Reyer
+    birthdate: 1797
+    deathdate: 1858
+    gutenberg_agent_id: '3807'
+    url: http://www.gutenberg.org/2009/agents/3807
+    wikipedia: http://en.wikipedia.org/wiki/Ida_Laura_Pfeiffer
+description: ''
+gutenberg_issued: '2019-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60474'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The last travels of Ida Pfeiffer: inclusive of a visit to Madagascar, with
+  a biographical memoir of the author'
+url: http://www.gutenberg.org/ebooks/60474
